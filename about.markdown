@@ -14,7 +14,7 @@ To submit a new collection you have to send an email to [ordinalsdir@gmail.com](
   "firstInscriptionNum" : 0,
   "lastInscriptionNum" : 0,
   "supply" : 100,
-  "website" : "https://www.ordinalsdir.com",
+  "web" : "https://www.ordinalsdir.com",
   "twitter" : "https://twitter.com/project-name",
   "discord" : "https://t.co/project-name",
   "artifacts" :
