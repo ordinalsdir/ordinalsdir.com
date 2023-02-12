@@ -1,0 +1,117 @@
+{
+  "name": "Bitcoin Checks",
+  "description": "Bitcoin Checks",
+  "firstInscriptionDate": "2023-02-09 20:39:31 UTC",
+  "firstInscriptionNum": 40711,
+  "lastInscriptionNum": 44603,
+  "supply": 21,
+  "twitter": "https://twitter.com/btc_checks",
+  "discord": "https://discord.gg/zANb8cV7Nq",
+  "artifacts": [
+    {
+      "artifactId": 1,
+      "inscriptionId": "9baec9ddc23c7ca62d06891a72f08f74f97dada8e384413a2de1a694f6e10b1bi0",
+      "inscriptionNum": 40711
+    },
+    {
+      "artifactId": 2,
+      "inscriptionId": "ae85f719849d0adf4ecf52be467c30e5936d3a8607049ec6c40f1bb084728d86i0",
+      "inscriptionNum": 40764
+    },
+    {
+      "artifactId": 3,
+      "inscriptionId": "11224f1d278927aa2a4b75e286e011e88226c7b19f5226fda2c01a9dfc3ca418i0",
+      "inscriptionNum": 40782
+    },
+    {
+      "artifactId": 4,
+      "inscriptionId": "66cea44a3c293541ebc7263b24f8b98a2a7332819a97aa133f6ba3829d4ea503i0",
+      "inscriptionNum": 41097
+    },
+    {
+      "artifactId": 5,
+      "inscriptionId": "e5aa8ffb3eb8ceadfe25ad257cb091f0ff70deb456c2e17342a5e40a9e65950bi0",
+      "inscriptionNum": 41894
+    },
+    {
+      "artifactId": 6,
+      "inscriptionId": "a3c2c500a87d9a35c212868d724ffc2cced0c41e9fbb11c9c01a4ca725c8cebai0",
+      "inscriptionNum": 42016
+    },
+    {
+      "artifactId": 7,
+      "inscriptionId": "a5326017ba37aed6360b5d6a195782f18bed4f0162386ce64c5f891294a103cdi0",
+      "inscriptionNum": 42126
+    },
+    {
+      "artifactId": 8,
+      "inscriptionId": "11224f1d278927aa2a4b75e286e011e88226c7b19f5226fda2c01a9dfc3ca418i0",
+      "inscriptionNum": 42216
+    },
+    {
+      "artifactId": 9,
+      "inscriptionId": "a03b94d375e81570ecb5964989f3f88f06d9eaa991468c0cc22462b78eb0bcb5i0",
+      "inscriptionNum": 42415
+    },
+    {
+      "artifactId": 10,
+      "inscriptionId": "69af8256e1f2445aa7337183b745c60c019c9a0e05b1ead369eef3950b1c4b93i0",
+      "inscriptionNum": 42575
+    },
+    {
+      "artifactId": 11,
+      "inscriptionId": "0d47f798394dc74a74b244e934d58fcfd7304f5d5305950bc6e255082500d3c4i0",
+      "inscriptionNum": 43056
+    },
+    {
+      "artifactId": 12,
+      "inscriptionId": "1e9ab7a03b495f6c3678c618e0ce524c87ed98ea9ec8306cfe1f27d28c671d33i0",
+      "inscriptionNum": 43205
+    },
+    {
+      "artifactId": 13,
+      "inscriptionId": "2e6bcd923bcd661d6ae7f1ba397013f2363ed66361cd906c4645d1d3b47a888ei0",
+      "inscriptionNum": 43234
+    },
+    {
+      "artifactId": 14,
+      "inscriptionId": "a09488c5b119a1cac6a0609fb986b533442ac4837d4fb5cdba28f32af5953166i0",
+      "inscriptionNum": 43646
+    },
+    {
+      "artifactId": 15,
+      "inscriptionId": "70ab7b7eb26c4f84bf03581f221809f70a960e5937fcff499ca372c22a31c282i0",
+      "inscriptionNum": 43771
+    },
+    {
+      "artifactId": 16,
+      "inscriptionId": "30414a3b84fd9a5e6a4f54b9cb9ace76ab84074b506f5110b2f844841672cf6di0",
+      "inscriptionNum": 44009
+    },
+    {
+      "artifactId": 17,
+      "inscriptionId": "257e40ac11db2a3cbdfbc82f0806e52034a540c57284fd0fead673d134fba5b0i0",
+      "inscriptionNum": 44149
+    },
+    {
+      "artifactId": 18,
+      "inscriptionId": "b37910032e2a5f170d9fbc4a5e006af5111efd9860c75c24bcb6c49e9da8831ai0",
+      "inscriptionNum": 44324
+    },
+    {
+      "artifactId": 19,
+      "inscriptionId": "f205cba2a66c649ef3af7a698c195a45b85007427c35edf089946f627432251bi0",
+      "inscriptionNum": 44361
+    },
+    {
+      "artifactId": 20,
+      "inscriptionId": "68ace6733fe73ed3f211cec0fb3974e2daf22b922b5f911fdd62cebe6f92eec9i0",
+      "inscriptionNum": 44562
+    },
+    {
+      "artifactId": 21,
+      "inscriptionId": "f0d2fe546aaecf068e618c6398fc9e76076564836b3e5ca6f779cde309fcbe72i0",
+      "inscriptionNum": 44603
+    }
+  ]
+}
