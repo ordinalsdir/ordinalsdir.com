@@ -24,7 +24,7 @@ description: >- # this means to ignore newlines until "baseurl:"
   Ordinals Directory Project is an open source project maintained by community that pretends to organize ordinals inscriptions.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username:
+twitter_username: ordinalsdir
 github_username:  ordinalsdir
 
 # Build settings
