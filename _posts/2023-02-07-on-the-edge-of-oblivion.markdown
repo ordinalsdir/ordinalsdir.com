@@ -7,14 +7,8 @@ lastInscriptionNum: 21623
 image: https://ordinalsdir.com/assets/img/on-the-edge-of-oblivion.png
 categories: sub1k
 ---
-- Name : {{site.data.on-the-edge-of-oblivion.name}}
-- Description : {{site.data.on-the-edge-of-oblivion.description}}
-- First inscription date : {{site.data.on-the-edge-of-oblivion.firstInscriptionDate}}
-- First inscription num : {{site.data.on-the-edge-of-oblivion.firstInscriptionNum}}
-- Last inscription num : {{site.data.on-the-edge-of-oblivion.lastInscriptionNum}}
-- Supply : {{site.data.on-the-edge-of-oblivion.supply}}
-- Twitter : {{site.data.on-the-edge-of-oblivion.twitter}}
-- Discord : {{site.data.on-the-edge-of-oblivion.discord}}
+{% assign data = site.data.on-the-edge-of-oblivion %}
+{% include post_template_header.html %}
 
 <div class="grid-container">
     {% for artifact in site.data.on-the-edge-of-oblivion.artifacts  %}

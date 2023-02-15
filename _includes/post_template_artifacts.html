@@ -1,0 +1,8 @@
+<div class="grid-container">
+    {% for artifact in data.artifacts  %}
+    <div class="grid-item">
+        <img src="https://ordinals.com/content/{{artifact.inscriptionId}}" width="100" height="100"/><br>
+        <a href="https://ordinals.com/inscription/{{artifact.inscriptionId}}" target="_blank">{{ artifact.artifactId }}</a>
+    </div>
+    {% endfor %}
+</div>
