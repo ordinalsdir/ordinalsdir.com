@@ -1,0 +1,22 @@
+{
+  "name": "Ordinal Dragoons",
+  "description": "Ordinal Dragoons",
+  "firstInscriptionDate": "2023-02-13 02:46:02 UTC",
+  "firstInscriptionNum": 70551,
+  "lastInscriptionNum": --,
+  "supply": 100,
+  "twitter": "https://twitter.com/OrdinalDragoons",
+  "discord": "https://discord.gg/7ZSEZd6Wxg",
+  "artifacts": [
+    {
+      "artifactId": 1,
+      "inscriptionId": "5cc067e4e97ea45751df273dd8575afa543122a9ef915817296ff7d2539ffc23i0",
+      "inscriptionNum": 70551
+    },
+    {
+      "artifactId": 2,
+      "inscriptionId": "5cc067e4e97ea45751df273dd8575afa543122a9ef915817296ff7d2539ffc23i0",
+      "inscriptionNum": 70551
+    },
+  ]
+}
