@@ -1,0 +1,513 @@
+{
+  "name": "Ordinal Bears",
+  "description": "100 Unique Bears Inscribed on the BTC network",
+  "firstInscriptionDate": "2023-02-09 23:07:49 UTC",
+  "firstInscriptionNum": 42659,
+  "lastInscriptionNum": 144586,
+  "supply": 100,
+  "web": "https://ordinalbears.com",
+  "twitter": "https://twitter.com/btcordinalbears",
+  "discord": "https://discord.gg/3CQT65yzDV",
+  "artifacts": [
+    {
+      "artifactId": "1",
+      "inscriptionNum": "42659",
+      "inscriptionId": "1bd1792134d5cce04daa9650a21b53aba04c4d3603fa526b036ee1a01be4dc3fi0"
+    },
+    {
+      "artifactId": "2",
+      "inscriptionNum": "44873",
+      "inscriptionId": "0e399741158b4f05187b7f9e92fafb1bafc2b569b6c3be00cd610cde45da47b5i0"
+    },
+    {
+      "artifactId": "3",
+      "inscriptionNum": "44646",
+      "inscriptionId": "95bfe0f3402284532f5a8c82ff36cb8235be4e1ba28dace371a94bf1c68f64c6i0"
+    },
+    {
+      "artifactId": "4",
+      "inscriptionNum": "44647",
+      "inscriptionId": "473143984e3eae7427f0f4b06bca4a2ebad66ff977e4102233c3bb28503dd3d9i0"
+    },
+    {
+      "artifactId": "5",
+      "inscriptionNum": "44768",
+      "inscriptionId": "207053ec028bc9dc1c7c9c48514969b8f29a7344981545094c3697bd3b25c979i0"
+    },
+    {
+      "artifactId": "6",
+      "inscriptionNum": "44855",
+      "inscriptionId": "ca21956791bc0517b4672a6ad94b822dd0be467776a2880e24ab16aab6eb440fi0"
+    },
+    {
+      "artifactId": "7",
+      "inscriptionNum": "44870",
+      "inscriptionId": "061eb423ec49bbd8c1e339c3d5d160c92d02cdee48c124acb0b414c9b8bf669di0"
+    },
+    {
+      "artifactId": "8",
+      "inscriptionNum": "44863",
+      "inscriptionId": "1af43d635295fe21af165d69f260f6550a1bff8cc641c7b050c2a0687da6f25ci0"
+    },
+    {
+      "artifactId": "9",
+      "inscriptionNum": "44936",
+      "inscriptionId": "83f12078ca9b16776fbdd8f51ff76ad18023c87d49d1590ac750a2dd4a67b734i0"
+    },
+    {
+      "artifactId": "10",
+      "inscriptionNum": "44943",
+      "inscriptionId": "ed778c736b290a3fcf6bad7e343ee6456d4e9653534732898e4d4995b09ccdebi0"
+    },
+    {
+      "artifactId": "11",
+      "inscriptionNum": "55426",
+      "inscriptionId": "1ff52788700704dca8f1a8219e20b4a0ccf781953aeb1f8231515b6df9a4f854i0"
+    },
+    {
+      "artifactId": "12",
+      "inscriptionNum": "55485",
+      "inscriptionId": "20cae799c26e480bae4655b1e014c1eead6f3cce8cc24ea17a43a5c77cce1864i0"
+    },
+    {
+      "artifactId": "13",
+      "inscriptionNum": "55658",
+      "inscriptionId": "35ee254c55ddc6ba05223783372dc0606ef64fb7652764d996c08f6957c66a88i0"
+    },
+    {
+      "artifactId": "14",
+      "inscriptionNum": "56680",
+      "inscriptionId": "b53203c34d817dbd82f91c0d11f6676e9698b1b28785b4fd4661512671e45ffbi0"
+    },
+    {
+      "artifactId": "15",
+      "inscriptionNum": "54956",
+      "inscriptionId": "47efd8d90228521ce8a7684cce6ec8f1755189ddf393527152a153e41c32d005i0"
+    },
+    {
+      "artifactId": "16",
+      "inscriptionNum": "56534",
+      "inscriptionId": "b160e2aa99b3efd715a77afb096afab9e85fbfc95bdd6c7ad9594b19c62239eai0"
+    },
+    {
+      "artifactId": "17",
+      "inscriptionNum": "54424",
+      "inscriptionId": "71f593a443040be46ec6c23cc0608b0bd1645913ba45793802f3151a0527c22bi0"
+    },
+    {
+      "artifactId": "18",
+      "inscriptionNum": "54429",
+      "inscriptionId": "881b299942a05d978fa369796145fd0faac4be15431e00228f0c06de42cf7482i0"
+    },
+    {
+      "artifactId": "19",
+      "inscriptionNum": "55658",
+      "inscriptionId": "35ee254c55ddc6ba05223783372dc0606ef64fb7652764d996c08f6957c66a88i0"
+    },
+    {
+      "artifactId": "20",
+      "inscriptionNum": "59292",
+      "inscriptionId": "76207c0137dffed1b9287f6d1edd1f8d73e4defce954ac391a5d492c56a082ebi0"
+    },
+    {
+      "artifactId": "21",
+      "inscriptionNum": "56224",
+      "inscriptionId": "0e5e0c432da792a03f3c62bba6123c8fd91c220be8a1691b19cdd6cf83a13720i0"
+    },
+    {
+      "artifactId": "22",
+      "inscriptionNum": "56485",
+      "inscriptionId": "575d7b6a2ed131998b26ece36d172adedbcd499abeaf62c782101812f750e030i0"
+    },
+    {
+      "artifactId": "23",
+      "inscriptionNum": "56500",
+      "inscriptionId": "3a7d8da871d2321c4c8589f7ad8008d55a16f35c78d2fb65966159934ef135aci0"
+    },
+    {
+      "artifactId": "24",
+      "inscriptionNum": "56604",
+      "inscriptionId": "116b271765662a6ee88cb73b51d0f2c94eea122de32128d1da2aed030733915ci0"
+    },
+    {
+      "artifactId": "25",
+      "inscriptionNum": "56499",
+      "inscriptionId": "a0f3a09c0895974b9948ccd9963043cdd853b2f832ade97e4ebb43eeb78ab193i0"
+    },
+    {
+      "artifactId": "26",
+      "inscriptionNum": "56611",
+      "inscriptionId": "74d7af5e4a1df7df53f023895ec9e083a72747ee1988066181f9224a8849d9a8i0"
+    },
+    {
+      "artifactId": "27",
+      "inscriptionNum": "56501",
+      "inscriptionId": "0870735f518c5a01be6c8c2b30f244dcfa9163245f7ffe0452759b8cd80a3ed9i0"
+    },
+    {
+      "artifactId": "28",
+      "inscriptionNum": "56610",
+      "inscriptionId": "4e12152b04508305b00388173ced1544df71d9697d5d8568b1e837720c52ae99i0"
+    },
+    {
+      "artifactId": "29",
+      "inscriptionNum": "56600",
+      "inscriptionId": "5a4becc10c1518564cf4063c2b45f0d6db10bf022212914ab226d542a89ef207i0"
+    },
+    {
+      "artifactId": "30",
+      "inscriptionNum": "57214",
+      "inscriptionId": "d4dc4162b8a5cc2c73c30af1969ba52c03d7ceb062c78ac7a4ad4e23cbb4e8b9i0"
+    },
+    {
+      "artifactId": "31",
+      "inscriptionNum": "56991",
+      "inscriptionId": "fe6cfb5533168edd195102f29753f39736fffd939fd38d914812c7afcf222c13i0"
+    },
+    {
+      "artifactId": "32",
+      "inscriptionNum": "57229",
+      "inscriptionId": "6e45bd7e54c27e521256f6764c0c8017a74701458d18f68983a566410f86f1e5i0"
+    },
+    {
+      "artifactId": "33",
+      "inscriptionNum": "57215",
+      "inscriptionId": "01dbe7a58c72190bc8ed7bbf6f96dbae955146d5d4c87c8a920b7facf84d08bfi0"
+    },
+    {
+      "artifactId": "34",
+      "inscriptionNum": "56992",
+      "inscriptionId": "8b306c07102b7b08d6e14e277bbc64362e63ddfe4327da84895943f9fe242e13i0"
+    },
+    {
+      "artifactId": "35",
+      "inscriptionNum": "58030",
+      "inscriptionId": "673e7d1837fc6431c0daadebf0a54724cf40b5e6eb19659065734e02be889f5ci0"
+    },
+    {
+      "artifactId": "36",
+      "inscriptionNum": "66317",
+      "inscriptionId": "03813fea23f2d8cbbe650d0ebb683e96ad26aeb7cb996f86c26c0516c46c9fdei0"
+    },
+    {
+      "artifactId": "37",
+      "inscriptionNum": "66311",
+      "inscriptionId": "a1962fb41d4e1ed04cfe0d761e5c5ef8dda31b8996a5e0dd7116c2ec5b7af1d3i0"
+    },
+    {
+      "artifactId": "38",
+      "inscriptionNum": "65957",
+      "inscriptionId": "1ec546efb216014f097df7a702a80fce004525440aa7ae9d8877f23d4d9688e8i0"
+    },
+    {
+      "artifactId": "39",
+      "inscriptionNum": "66595",
+      "inscriptionId": "31f34849a89aee08138c09b1360bb43f15d03569bdcb143c4683a290fd2e55d5i0"
+    },
+    {
+      "artifactId": "40",
+      "inscriptionNum": "67183",
+      "inscriptionId": "5293714e9f6be232929c0c79ce8723dcc92e8773fdbb01990ecaf80fd29ff26ai0"
+    },
+    {
+      "artifactId": "41",
+      "inscriptionNum": "67148",
+      "inscriptionId": "12f6b0d6cc1ac3a54a9c519f3a764ab25836d647c95555621350e04943b9f153i0"
+    },
+    {
+      "artifactId": "42",
+      "inscriptionNum": "67205",
+      "inscriptionId": "63008a006036f38bfeb35a367ded4312d1ca3923323dbc85dc330db006b708fbi0"
+    },
+    {
+      "artifactId": "43",
+      "inscriptionNum": "67198",
+      "inscriptionId": "c5ab6fe1b6c52bc22ac4f27f853eba056b600d0127bef4d69a16205df9b9cbdbi0"
+    },
+    {
+      "artifactId": "44",
+      "inscriptionNum": "67187",
+      "inscriptionId": "72120c1923bfeb44d68c69cd296c61d11395bad025739e5e063aef52b8b26381i0"
+    },
+    {
+      "artifactId": "45",
+      "inscriptionNum": "67172",
+      "inscriptionId": "17db9c871fcf7d027a637cabd6f7db28898b3629e5547ed2a3f229a8cc43e3e6i0"
+    },
+    {
+      "artifactId": "46",
+      "inscriptionNum": "67358",
+      "inscriptionId": "422b6fc50cbc671e78038c5608d52dfd82523ae59e9a3fd93cb7777c5948ce8fi0"
+    },
+    {
+      "artifactId": "47",
+      "inscriptionNum": "67431",
+      "inscriptionId": "f5946e376636102a3ad3d3f58a74b1aabc4d5c4369b1b426ce86ab4e032508ebi0"
+    },
+    {
+      "artifactId": "48",
+      "inscriptionNum": "67428",
+      "inscriptionId": "cfeb708895d27b55e1d7c58819cde14448c6040c45b6071f863856f8c6dd30c9i0"
+    },
+    {
+      "artifactId": "49",
+      "inscriptionNum": "67622",
+      "inscriptionId": "5eb7236948be5bcba522a9d2c71187ed2a4306fbb26d569265f077422ef62974i0"
+    },
+    {
+      "artifactId": "50",
+      "inscriptionNum": "67657",
+      "inscriptionId": "89866907fd384fedbb7133298b20aef852d948fdf2fce04ffa63a5264a755e46i0"
+    },
+    {
+      "artifactId": "51",
+      "inscriptionNum": "68269",
+      "inscriptionId": "18d0e1ae40763d41b5947540d0676585529f1ea784cd0382fdacb12deaf5011ei0"
+    },
+    {
+      "artifactId": "52",
+      "inscriptionNum": "68256",
+      "inscriptionId": "928bbc0953532ed21dcc311b11006d332ede47b1fa4987715ef81b295c4c663ci0"
+    },
+    {
+      "artifactId": "53",
+      "inscriptionNum": "75989",
+      "inscriptionId": "081b97f5987f0001a18a67fc60221d3c656f7ee85d6587dd7b53da28113be107i0"
+    },
+    {
+      "artifactId": "54",
+      "inscriptionNum": "76766",
+      "inscriptionId": "79bde6e8aee5fcf5835bda1f76f596262f4c6e7ca4a0ad5b061f50d14f9ddd6bi0"
+    },
+    {
+      "artifactId": "55",
+      "inscriptionNum": "82443",
+      "inscriptionId": "2cd0aa8604c11893c925ca9e2e9507d3be3215a2d9e710dfaf63d04c19c3cb68i0"
+    },
+    {
+      "artifactId": "56",
+      "inscriptionNum": "82441",
+      "inscriptionId": "5f03f3555d68946184df10f72e9668e97774f28451f1218e60f18f6cb8ab9d65i0"
+    },
+    {
+      "artifactId": "57",
+      "inscriptionNum": "87423",
+      "inscriptionId": "d83ee3c4f22f1550be0e6385dab7dc085a8a615c12777eda11f0cf2b0c173180i0"
+    },
+    {
+      "artifactId": "58",
+      "inscriptionNum": "90249",
+      "inscriptionId": "442652e38cb1f3748e3cef38f28e7e6b0f957027f53fdb18a7cbbf904abaa400i0"
+    },
+    {
+      "artifactId": "59",
+      "inscriptionNum": "104725",
+      "inscriptionId": "d300a2bfd4b390ac48f0a07bd86a4cc4ea6faef730fd3f5d2baa29ceabd1a1c1i0"
+    },
+    {
+      "artifactId": "60",
+      "inscriptionNum": "104796",
+      "inscriptionId": "8453b28324076f1831743d08832c29595626e37795ff40ee69f06429de8c04b2i0"
+    },
+    {
+      "artifactId": "61",
+      "inscriptionNum": "104799",
+      "inscriptionId": "12b42c9c9f475ba21e9b69aef77ee635a1ac6b1f835009379cda5355911ae7b5i0"
+    },
+    {
+      "artifactId": "62",
+      "inscriptionNum": "104871",
+      "inscriptionId": "8fd88ae1c5faae75d87be57b3875f8d9846b11c7dfb2fb6ddc50e835a4e861f3i0"
+    },
+    {
+      "artifactId": "63",
+      "inscriptionNum": "104798",
+      "inscriptionId": "ceb0dee3a59ec6c6ee3eaf831fb402e8cd84b25fde8993c9ddad2357e7fd4bb3i0"
+    },
+    {
+      "artifactId": "64",
+      "inscriptionNum": "104864",
+      "inscriptionId": "617bd35d29ac50b2add7f3c0c0f0278f77f984d254c0531e9933702785696a05i0"
+    },
+    {
+      "artifactId": "65",
+      "inscriptionNum": "104868",
+      "inscriptionId": "fd7409a46163418fc4947585372eafee0e5e0bbb42f16eb97dc6044673aaddb2i0"
+    },
+    {
+      "artifactId": "66",
+      "inscriptionNum": "104876",
+      "inscriptionId": "8e412703fbff4c89c841744ab45e7f19e6275c37be558d4b8c026bd5b6c5832ei0"
+    },
+    {
+      "artifactId": "67",
+      "inscriptionNum": "104878",
+      "inscriptionId": "af0bce58d5a4641d8f694a54af23c819b3886ec08df81c2074bd8f4a24ea7a31i0"
+    },
+    {
+      "artifactId": "68",
+      "inscriptionNum": "104880",
+      "inscriptionId": "fb4334f9461e73bc778df93e89db3857fc33b0985f3ee4bb203ef961a09e0551i0"
+    },
+    {
+      "artifactId": "69",
+      "inscriptionNum": "104874",
+      "inscriptionId": "278ae45b50dd4715b70bc9e0c32f29e99ee3c74f8afdec76a54bad799dc22f15i0"
+    },
+    {
+      "artifactId": "70",
+      "inscriptionNum": "104881",
+      "inscriptionId": "9210642a450483298db6b002f79cf37f6ef768f7d2428fed32d216348d891b53i0"
+    },
+    {
+      "artifactId": "71",
+      "inscriptionNum": "104920",
+      "inscriptionId": "749cf010fa689fb78e624f752c9ad4c1568d06101d91cf4346aeadbc9e311c54i0"
+    },
+    {
+      "artifactId": "72",
+      "inscriptionNum": "105047",
+      "inscriptionId": "8d915223021bec92dab59fececb3a68b87b8bc8b89261a7a55f10a4677e03afei0"
+    },
+    {
+      "artifactId": "73",
+      "inscriptionNum": "105042",
+      "inscriptionId": "6a45f28d163d17c9422f2f6de4fd9c7e2598a8e17e3749eaa16d950795715fa8i0"
+    },
+    {
+      "artifactId": "74",
+      "inscriptionNum": "105046",
+      "inscriptionId": "0eecd4f93cfff2a21da991ac415c32820634cc481eb92c7bd8fee0ea5caa3dedi0"
+    },
+    {
+      "artifactId": "75",
+      "inscriptionNum": "105578",
+      "inscriptionId": "b6302cde7935584d8d348f84f455dec2ec25e0335ad660bcc4cd16b82f33bfa8i0"
+    },
+    {
+      "artifactId": "76",
+      "inscriptionNum": "105575",
+      "inscriptionId": "aa33c9f04463279e52d9b39b4fa4c18700e4b8dbe69df5ef87ff04c5f9128728i0"
+    },
+    {
+      "artifactId": "77",
+      "inscriptionNum": "105302",
+      "inscriptionId": "052c61efad7367f052a62d97bc89611d5e87f5d047d1ab6370187b9eda414298i0"
+    },
+    {
+      "artifactId": "78",
+      "inscriptionNum": "108775",
+      "inscriptionId": "c6d24764c697fb8cecc6c1966b26c5b72a7d73c790ab897ac051734fd73daf44i0"
+    },
+    {
+      "artifactId": "79",
+      "inscriptionNum": "113655",
+      "inscriptionId": "aed5d05dc2395082deb453a571eb5dd0abfe0d175e4e73e28e59d69ddac1c16ci0"
+    },
+    {
+      "artifactId": "80",
+      "inscriptionNum": "123522",
+      "inscriptionId": "02809d13c3727ffa0233a72a5701e3f09134d6bc3ba4ea613cddadaa95859d17i0"
+    },
+    {
+      "artifactId": "81",
+      "inscriptionNum": "123847",
+      "inscriptionId": "7381f37dcd41bd04874a457c2c458d6216d638f9723464f695b79476a7f1b70ci0"
+    },
+    {
+      "artifactId": "82",
+      "inscriptionNum": "123895",
+      "inscriptionId": "a79479adb48ecf3e73a045a80e5f79507e40a4b0192e065db219e1e535bf1f32i0"
+    },
+    {
+      "artifactId": "83",
+      "inscriptionNum": "123898",
+      "inscriptionId": "97085dd0b4a91d0b53ab5f36a1f212cb1fac626f65da70abb0cc2ae17b804eebi0"
+    },
+    {
+      "artifactId": "84",
+      "inscriptionNum": "128242",
+      "inscriptionId": "66ca41af2a92ee840765f45d7a730937e44448d75c1b4a8f3db8f506edef8e1ai0"
+    },
+    {
+      "artifactId": "85",
+      "inscriptionNum": "128310",
+      "inscriptionId": "267822c92ce7517ae832011e3d2ac4376e0237a33a0ac8fdac7b130d36b41018i0"
+    },
+    {
+      "artifactId": "86",
+      "inscriptionNum": "128811",
+      "inscriptionId": "fb636999e37279819c490d963ef74a37582fd785bec245f4f250b300e95a4d5ai0"
+    },
+    {
+      "artifactId": "87",
+      "inscriptionNum": "129486",
+      "inscriptionId": "f758c3635267fda5391924fd4b9c138d752b8deb261bf534da8c3e30f2e68206i0"
+    },
+    {
+      "artifactId": "88",
+      "inscriptionNum": "130472",
+      "inscriptionId": "7bb7174663cf76529d84781b8bde5944cb7c107ee1c615a5df01c72a19598d6ci0"
+    },
+    {
+      "artifactId": "89",
+      "inscriptionNum": "138263",
+      "inscriptionId": "b99c7bcef4cc244fa7234e7546d97e2da5baf4e4a84d017bbfbddf0a6f0eac18i0"
+    },
+    {
+      "artifactId": "90",
+      "inscriptionNum": "138355",
+      "inscriptionId": "b62e97c61a400673e174994ebfc9c76ec4964eca25df0a29dd44b4cacc81509ci0"
+    },
+    {
+      "artifactId": "91",
+      "inscriptionNum": "138377",
+      "inscriptionId": "0ace21d9e32312533191173fd39ccff796d583413b2d28e619fd05096a840316i0"
+    },
+    {
+      "artifactId": "92",
+      "inscriptionNum": "138389",
+      "inscriptionId": "560399f92ea81d1f299dcd99c0b2cce1edf66222548228ddbd215d562a680dfei0"
+    },
+    {
+      "artifactId": "93",
+      "inscriptionNum": "138548",
+      "inscriptionId": "135b9c3cdf44c762c5c94718386c339319e24657568e65702d3ded0a0634e97ei0"
+    },
+    {
+      "artifactId": "94",
+      "inscriptionNum": "138378",
+      "inscriptionId": "438e5cb90017bde730424f4cff262096c9f36621948d8a51c8524f8904c9bb28i0"
+    },
+    {
+      "artifactId": "95",
+      "inscriptionNum": "138548",
+      "inscriptionId": "2deee15ea0f4319ce9dcd67a0ce7e50a3376bf88255d9c4a4ba91ac2859eabddi0"
+    },
+    {
+      "artifactId": "96",
+      "inscriptionNum": "139241",
+      "inscriptionId": "45edf2c75ed53d10cd81b45a8436ed54a44032f29ae4e6b3fc86ae36f38791f4i0"
+    },
+    {
+      "artifactId": "97",
+      "inscriptionNum": "139533",
+      "inscriptionId": "a3e7ef03d9285b5ef39652b5f1cef0cf6a4fdbf1fa7730299cb5c35d491c3588i0"
+    },
+    {
+      "artifactId": "98",
+      "inscriptionNum": "139548",
+      "inscriptionId": "c4d55c0e24a8a5a520731ffc559688d162a45e04ca942ddadcfed43f8c9bc33fi0"
+    },
+    {
+      "artifactId": "99",
+      "inscriptionNum": "144501",
+      "inscriptionId": "533274e91542e18e27bf22fb94bd5267cace0b868491af8c5bd0ce78a13f68a3i0"
+    },
+    {
+      "artifactId": "100",
+      "inscriptionNum": "144586",
+      "inscriptionId": "ec5b13eb9182aef0d415d2d616a71c2e4efceda6704d5a7bf538e206c1ccb750i0"
+    }
+  ]
+}
