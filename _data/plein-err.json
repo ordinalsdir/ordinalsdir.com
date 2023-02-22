@@ -1,0 +1,264 @@
+{
+  "name": "Plein Err",
+  "description": "Plein Err is a collection of 42 pixel landscapes. The collection is inspired by the work of the Plein Air Painters of the 19th century, and the pixel art of the 20th. Each pixel landscape is 128x64, scaled 3x, and consists of the same palette of 64 colors. The collection is limited to 42 inscriptions",
+  "firstInscriptionDate": "2023-02-04 19:58:06 UTC",
+  "firstInscriptionNum": 2100,
+  "lastInscriptionNum": 2281,
+  "supply": 42,
+  "twitter": "https://twitter.com/pleinerrr",
+  "discord": "",
+  "artifacts": [
+    {
+      "artifactId": 1,
+      "inscriptionId": "c8b331a24873016fe9d2801f6a406ae1ec10e2f543469672958e62417a6311a9i0",
+      "inscriptionNum": "2100",
+      "timestamp": "2023-02-04 19:58:06 UTC"
+    },
+    {
+      "artifactId": 2,
+      "inscriptionId": "15e58456410d213e2fe511281717721ebb9e2540fb2a7f647fdc8dc9c06a3e25i0",
+      "inscriptionNum": "2103",
+      "timestamp": "2023-02-04 20:21:04 UTC"
+    },
+    {
+      "artifactId": 3,
+      "inscriptionId": "69db3653106f09291b10c937e404511fe6ac849bbfb554736b8c3d8b47bf404ci0",
+      "inscriptionNum": "2108",
+      "timestamp": "2023-02-04 20:27:34 UTC"
+    },
+    {
+      "artifactId": 4,
+      "inscriptionId": "f7aad4a86728758a76e496fba70937aa369c56bcff94ba28e6206811c9b5b91ai0",
+      "inscriptionNum": "2198",
+      "timestamp": "2023-02-04 21:05:50 UTC"
+    },
+    {
+      "artifactId": 5,
+      "inscriptionId": "c972893b426f93a0fb3176ec33c7a296495cf6e237edf551b6c9711f338aa621i0",
+      "inscriptionNum": "2199",
+      "timestamp": "2023-02-04 21:05:50 UTC"
+    },
+    {
+      "artifactId": 6,
+      "inscriptionId": "372ddda62b75053876a491b5863f4cbf840e8a5363601e73f5179dca4d32e43ei0",
+      "inscriptionNum": "2200",
+      "timestamp": "2023-02-04 21:05:50 UTC"
+    },
+    {
+      "artifactId": 7,
+      "inscriptionId": "15630edbc907539471c223e5658e3140197b96dd896b697b183fb96e4130ae55i0",
+      "inscriptionNum": "2201",
+      "timestamp": "2023-02-04 21:05:50 UTC"
+    },
+    {
+      "artifactId": 8,
+      "inscriptionId": "724babc00e7773d5534b4adc9e7e75cc4d9e97c161512b8ba0d225d3249c8d57i0",
+      "inscriptionNum": "2202",
+      "timestamp": "2023-02-04 21:05:50 UTC"
+    },
+    {
+      "artifactId": 9,
+      "inscriptionId": "15d047943793c37733b93de2fbcb2ca1857ce17011c08442cff176080b0d815ai0",
+      "inscriptionNum": "2203",
+      "timestamp": "2023-02-04 21:05:50 UTC"
+    },
+    {
+      "artifactId": 10,
+      "inscriptionId": "1d2930b28df95af8442cff93a12aa454f2f705e1bf31ef1edd24546d1606fe67i0",
+      "inscriptionNum": "2204",
+      "timestamp": "2023-02-04 21:05:50 UTC"
+    },
+    {
+      "artifactId": 11,
+      "inscriptionId": "c979c9b1fed2d4a9771dbefb08210aae717f56cb95e05e8977a97313cb02fe74i0",
+      "inscriptionNum": "2205",
+      "timestamp": "2023-02-04 21:05:50 UTC"
+    },
+    {
+      "artifactId": 12,
+      "inscriptionId": "957c2f234110b378bc89dca63bfc2865fc07c033d899bce52e13231a08271d81i0",
+      "inscriptionNum": "2206",
+      "timestamp": "2023-02-04 21:05:50 UTC"
+    },
+    {
+      "artifactId": 13,
+      "inscriptionId": "f44ae48e1f0996b00294d6d827182589b648c783aae30b9ee0a0370350503b84i0",
+      "inscriptionNum": "2207",
+      "timestamp": "2023-02-04 21:05:50 UTC"
+    },
+    {
+      "artifactId": 14,
+      "inscriptionId": "479e719f0ee58313eb245d1b2abb01632b4db51226f222031e6f02d69051bc8bi0",
+      "inscriptionNum": "2208",
+      "timestamp": "2023-02-04 21:05:50 UTC"
+    },
+    {
+      "artifactId": 15,
+      "inscriptionId": "b90a77c0e10e335c74e894da12d540d95cd5e95c1701c0243edd96dd26e02e8ei0",
+      "inscriptionNum": "2209",
+      "timestamp": "2023-02-04 21:05:50 UTC"
+    },
+    {
+      "artifactId": 16,
+      "inscriptionId": "08979e363fd0ebb940a5bebddfb43ab6f435c7d2d5ffadb9282b34d353bc26a7i0",
+      "inscriptionNum": "2210",
+      "timestamp": "2023-02-04 21:05:50 UTC"
+    },
+    {
+      "artifactId": 17,
+      "inscriptionId": "876b998205b05d27f46bf623fb35b200140f709de173d1be637a32dbd31fb6adi0",
+      "inscriptionNum": "2211",
+      "timestamp": "2023-02-04 21:05:50 UTC"
+    },
+    {
+      "artifactId": 18,
+      "inscriptionId": "ca567b0b9fb416c1176e8fbb8b7cc288b5f53318e1a5922763242e206724dab0i0",
+      "inscriptionNum": "2212",
+      "timestamp": "2023-02-04 21:05:50 UTC"
+    },
+    {
+      "artifactId": 19,
+      "inscriptionId": "df9025f35b3fbb6c11795da2156cf032c240f19b839b96b969783c13043731c3i0",
+      "inscriptionNum": "2213",
+      "timestamp": "2023-02-04 21:05:50 UTC"
+    },
+    {
+      "artifactId": 20,
+      "inscriptionId": "9766dd77206afa72e7196de785bbeef496e479ce84e34e40c4883db152ca3dc5i0",
+      "inscriptionNum": "2214",
+      "timestamp": "2023-02-04 21:05:50 UTC"
+    },
+    {
+      "artifactId": 21,
+      "inscriptionId": "f75fe48db208efff68ba38e66893383894f23482dc93a798d413b8700ee305dai0",
+      "inscriptionNum": "2215",
+      "timestamp": "2023-02-04 21:05:50 UTC"
+    },
+    {
+      "artifactId": 22,
+      "inscriptionId": "3244996cc521153858db68aa3874d55d6446e6d3e829ef40f728cefc2ca58adfi0",
+      "inscriptionNum": "2216",
+      "timestamp": "2023-02-04 21:05:50 UTC"
+    },
+    {
+      "artifactId": 23,
+      "inscriptionId": "7a0e726bf29be33c9ef96d7fad473eb3c2ba8c3101626606310373757549cae1i0",
+      "inscriptionNum": "2217",
+      "timestamp": "2023-02-04 21:05:50 UTC"
+    },
+    {
+      "artifactId": 24,
+      "inscriptionId": "6fb2e65d9c7f353e70fdcb236b3ef2741cce84971007e28d863f5e2d20eb1ee7i0",
+      "inscriptionNum": "2218",
+      "timestamp": "2023-02-04 21:05:50 UTC"
+    },
+    {
+      "artifactId": 25,
+      "inscriptionId": "922985357cc98cac800e4fcf6bffc2a05987f7c3cea9c02a03c811e1164a4ee8i0",
+      "inscriptionNum": "2219",
+      "timestamp": "2023-02-04 21:05:50 UTC"
+    },
+    {
+      "artifactId": 26,
+      "inscriptionId": "938a4a36353574d7a7ab32a3078286b58ddaa1f16b3ff82dc55138637ff497eci0",
+      "inscriptionNum": "2220",
+      "timestamp": "2023-02-04 21:05:50 UTC"
+    },
+    {
+      "artifactId": 27,
+      "inscriptionId": "d08337669e3b30ffc592a8f9d14d596dee1bc4ab05e7611f09e0168953b3e5f4i0",
+      "inscriptionNum": "2221",
+      "timestamp": "2023-02-04 21:05:50 UTC"
+    },
+    {
+      "artifactId": 28,
+      "inscriptionId": "6e75eb071e80b4aee59cd294a6124be6c49d1bcdc6a76d61a9a91b8034fdc5f8i0",
+      "inscriptionNum": "2222",
+      "timestamp": "2023-02-04 21:05:50 UTC"
+    },
+    {
+      "artifactId": 29,
+      "inscriptionId": "908daee53d51b61a4cbc6b851d8fffabbecb97af7b27985d907ac3ae1cd743f9i0",
+      "inscriptionNum": "2223",
+      "timestamp": "2023-02-04 21:05:50 UTC"
+    },
+    {
+      "artifactId": 30,
+      "inscriptionId": "33a06c4c60dac4646c1a825fa1e864054ad7db3b04060fee029fb2cdb8357304i0",
+      "inscriptionNum": "2269",
+      "timestamp": "2023-02-04 21:26:35 UTC"
+    },
+    {
+      "artifactId": 31,
+      "inscriptionId": "f4c888c005c3260cd2f137845ee44e8f6309307f2ce3e3f7649c58ebcc30f311i0",
+      "inscriptionNum": "2270",
+      "timestamp": "2023-02-04 21:26:35 UTC"
+    },
+    {
+      "artifactId": 32,
+      "inscriptionId": "37588255c32dd39f6a71242208bda3efc5586fc80970131ce4d1f603a79f3c18i0",
+      "inscriptionNum": "2271",
+      "timestamp": "2023-02-04 21:26:35 UTC"
+    },
+    {
+      "artifactId": 33,
+      "inscriptionId": "61766e4914634c0a7c49b09c22ae4a9f5e7f4c6780400d1791fceefbb2bd752ci0",
+      "inscriptionNum": "2272",
+      "timestamp": "2023-02-04 21:26:35 UTC"
+    },
+    {
+      "artifactId": 34,
+      "inscriptionId": "bc8d7b8596898061eea32f65bb50cd9cfd850faea7df99316d8bed0743247134i0",
+      "inscriptionNum": "2273",
+      "timestamp": "2023-02-04 21:26:35 UTC"
+    },
+    {
+      "artifactId": 35,
+      "inscriptionId": "3cc2436d9286556258a0399da8faabcad3049d04fb4cc81f68406814c028523ci0",
+      "inscriptionNum": "2274",
+      "timestamp": "2023-02-04 21:26:35 UTC"
+    },
+    {
+      "artifactId": 36,
+      "inscriptionId": "e03f5912de7da7323bba168e69fc27fedcf3395fc359f0a61a0f14b50bc45646i0",
+      "inscriptionNum": "2275",
+      "timestamp": "2023-02-04 21:26:35 UTC"
+    },
+    {
+      "artifactId": 37,
+      "inscriptionId": "1532b7357421801deab60b75488d386d0ff48e5131eea6e334ad3dbf3dae0866i0",
+      "inscriptionNum": "2276",
+      "timestamp": "2023-02-04 21:26:35 UTC"
+    },
+    {
+      "artifactId": 38,
+      "inscriptionId": "9068ebb316fa44b061d3d41b332cc94451044f5baeb6d06a4a7c090651a9346fi0",
+      "inscriptionNum": "2277",
+      "timestamp": "2023-02-04 21:26:35 UTC"
+    },
+    {
+      "artifactId": 39,
+      "inscriptionId": "653e69e2ccaa625aa63aa0abe7dec6f8e131cbe33b9bfb0e8166b4706833aa8ei0",
+      "inscriptionNum": "2278",
+      "timestamp": "2023-02-04 21:26:35 UTC"
+    },
+    {
+      "artifactId": 40,
+      "inscriptionId": "3339117625d8f2fbc59c8cbbcf2cc5ad89398b3b740473f54a9fbc63551aca90i0",
+      "inscriptionNum": "2279",
+      "timestamp": "2023-02-04 21:26:35 UTC"
+    },
+    {
+      "artifactId": 41,
+      "inscriptionId": "7e3bd51326b28309ef1eb97bcc571f307aa66a1b52b98c2adf05702dd4e3829fi0",
+      "inscriptionNum": "2280",
+      "timestamp": "2023-02-04 21:26:35 UTC"
+    },
+    {
+      "artifactId": 42,
+      "inscriptionId": "3be6a9047f09b5a791ea68e94e16300a28434c20703e3287c6c17760d2b2e1a9i0",
+      "inscriptionNum": "2281",
+      "timestamp": "2023-02-04 21:26:35 UTC"
+    }
+  ]
+}
