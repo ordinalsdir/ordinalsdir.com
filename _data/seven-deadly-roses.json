@@ -1,0 +1,48 @@
+{
+  "name": "Seven Deadly Roses",
+  "description": "Seven deadly roses, seven color variations. All made from clay, minted on Valentine’s Day",
+  "firstInscriptionDate": "2023-02-14 09:22:05 UTC",
+  "firstInscriptionNum": 82628,
+  "lastInscriptionNum": 82827,
+  "supply": 7,
+  "web": "https://www.adanauts.space/7-deadly-roses",
+  "twitter": "https://twitter.com/Brrrbon_",
+  "discord": "https://discord.gg/FK4ccMyN",
+  "artifacts": [
+    {
+      "artifactId": 1,
+      "inscriptionId": "1ddf3dcc96931a067b6b92d5d973700a4810830fa6dcc421dce54ebb4e971e4bi0",
+      "inscriptionNum": 82628
+    },
+    {
+      "artifactId": 2,
+      "inscriptionId": "c9740ce752e2527bcf9900f079eb59e160c067b07e7f6191138ed4f72ec91d45i0",
+      "inscriptionNum": 82794
+    },
+    {
+      "artifactId": 3,
+      "inscriptionId": "223207ed17865f14642eb577a53e66b79fef87f819dc33e5c43356371d90ae63i0",
+      "inscriptionNum": 82801
+    },
+    {
+      "artifactId": 4,
+      "inscriptionId": "d3bdd43ffd7ca8c003422cee7d1ef3c5270c6d069e35ee7af0f7e3bb2d063390i0",
+      "inscriptionNum": 82812
+    },
+    {
+      "artifactId": 5,
+      "inscriptionId": "5376f6bf40d4e2f30d1cf93554abae4d6f66e477a5f0917bc870a6d78121a0b1i0",
+      "inscriptionNum": 82822
+    },
+    {
+      "artifactId": 6,
+      "inscriptionId": "90c56f887c697fdb6ef22e7fe5ea8d224cd5c826bce0cc4e6507f02853902dbdi0",
+      "inscriptionNum": 82825
+    },
+    {
+      "artifactId": 7,
+      "inscriptionId": "538593d7af1ce44967ed3a3611382213a6c6c427f3e95cfefc9f745f838f49c4i0",
+      "inscriptionNum": 82827
+    }
+  ]
+}
