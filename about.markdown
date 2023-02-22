@@ -4,6 +4,12 @@ title: SUBMIT COLLECTION (FREE)
 permalink: /submit-collection/
 ---
 
+{% if site.logo %}
+<center>
+<img src="/assets/img/{{ site.logo }}" class="site-logo" width="100" height="auto" style="border-radius: 50%"/>
+</center>
+{%- endif -%}
+<br>
 To submit a new collection you have to send an email to [ordinalsdir@gmail.com](ordinalsdir@gmail.com) with a json file with the following structure.
 
 ```json
