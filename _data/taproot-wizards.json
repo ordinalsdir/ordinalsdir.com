@@ -1,0 +1,97 @@
+{
+  "name": "Taproot Wizards",
+  "description": "Taproot Wizards",
+  "firstInscriptionDate": "2023-02-01 20:38:33 UTC",
+  "firstInscriptionNum": 652,
+  "lastInscriptionNum": 150336,
+  "supply": 2099,
+  "web": "https://taprootwizards.com",
+  "twitter": "https://twitter.com/TaprootWizards",
+  "discord": "https://discord.gg/taprootwizards",
+  "artifacts": [
+    {
+      "artifactId": 1,
+      "inscriptionId": "0301e0480b374b32851a9462db29dc19fe830a7f7d7a88b81612b9d42099c0aei0",
+      "inscriptionNum": 652,
+      "timestamp": "2023-02-01 20:38:33 UTC"
+    },
+    {
+      "artifactId": 2,
+      "inscriptionId": "1008850869eb564cad900c316a02f65854f531b31a2ef96bacecd536be96b031i0",
+      "inscriptionNum": 1107,
+      "timestamp": "2023-02-02 22:29:29 UTC"
+    },
+    {
+      "artifactId": 3,
+      "inscriptionId": "7edb8802cb4f86a16c6cdfb27c07d6c6c98c83abf4edf14965af3317a1931e3di0",
+      "inscriptionNum": 1383,
+      "timestamp": "2023-02-03 23:50:30 UTC"
+    },
+    {
+      "artifactId": 4,
+      "inscriptionId": "a6d78e0790f122810ec6e6bdaca6bebe58497dad19d47ea349ad33451c6ea153i0",
+      "inscriptionNum": 2625,
+      "timestamp": "2023-02-05 00:40:43 UTC"
+    },
+    {
+      "artifactId": 5,
+      "inscriptionId": "681ec55c4a74f5fed4803e33a97b7f42c1c79ae4281efcffb8f9ede5017b4970i0",
+      "inscriptionNum": 2637,
+      "timestamp": "2023-02-05 00:46:50 UTC"
+    },
+    {
+      "artifactId": 6,
+      "inscriptionId": "7f2fde17c50f9b4333b0a74d433c3bf076d21403f8066c691ee5e5ebc8a38cb7i0",
+      "inscriptionNum": 6677,
+      "timestamp": "2023-02-06 11:47:25 UTC"
+    },
+    {
+      "artifactId": 7,
+      "inscriptionId": "6a45311f03523670cb6bdc7bb9c8f80d5cb30648dd5fc1cd807584e3c74ea0a1i0",
+      "inscriptionNum": 22637,
+      "timestamp": "2023-02-09 00:31:31 UTC"
+    },
+    {
+      "artifactId": 8,
+      "inscriptionId": "738014e0ad64a8852ce1fcea3f3c87c31d6c6f66803f0a09b8ca17652581c87di0",
+      "inscriptionNum": 38728,
+      "timestamp": "2023-02-09 16:34:36 UTC"
+    },
+    {
+      "artifactId": 9,
+      "inscriptionId": "265f9bdb256d8ec23328a80e7b52680fb0fdcc57061856352993939e8bc96898i0",
+      "inscriptionNum": 39745,
+      "timestamp": "2023-02-09 18:05:40 UTC"
+    },
+    {
+      "artifactId": 10,
+      "inscriptionId": "5b36a2e68b1c5ee96a9d1be28d856e8b8cdb67ead0e82fd2d82493d37772ea6ci0",
+      "inscriptionNum": 52384,
+      "timestamp": "2023-02-11 05:17:32 UTC"
+    },
+    {
+      "artifactId": 11,
+      "inscriptionId": "7404468b7524e23d9b6d8914193c0fff5c97d79befa008e3eb0ec41e4d10b2bci0",
+      "inscriptionNum": 56480,
+      "timestamp": "2023-02-11 15:05:41 UTC"
+    },
+    {
+      "artifactId": 12,
+      "inscriptionId": "1015da9a2380ed7a9914a5eef04df97d5c214e43050b3fabc79000765deae9edi0",
+      "inscriptionNum": 56483,
+      "timestamp": "2023-02-11 15:05:41 UTC"
+    },
+    {
+      "artifactId": 13,
+      "inscriptionId": "2553d8082fb060d4505b1d597fa009ae111e7e7d23674b4376844e658cc485aci0",
+      "inscriptionNum": 79619,
+      "timestamp": "2023-02-14 01:33:07 UTC"
+    },
+    {
+      "artifactId": 14,
+      "inscriptionId": "bb59a5fae93e4bdba44d6fd220248422115b90e7b1ad7716b4624507130f6f60i0",
+      "inscriptionNum": 107392,
+      "timestamp": "2023-02-15 18:44:45 UTC"
+    }
+  ]
+}
