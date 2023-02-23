@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Bitcoin Toadz Pepes"
+title:  "Bitcoin Toadz"
 date:   2023-02-05 19:22:05 +0000
 firstInscriptionNum: 4819
 lastInscriptionNum: 4929
