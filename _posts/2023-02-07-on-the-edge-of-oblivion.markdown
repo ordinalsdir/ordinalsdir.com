@@ -5,7 +5,7 @@ date:   2023-02-07 04:25:13 +0000
 firstInscriptionNum: 9978
 lastInscriptionNum: 21623
 image: https://ordinalsdir.com/assets/img/on-the-edge-of-oblivion.png
-categories: sub1k
+categories:
 ---
 {% assign data = site.data.on-the-edge-of-oblivion %}
 {% include post_template_header.html %}
