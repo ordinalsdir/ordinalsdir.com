@@ -1,0 +1,17 @@
+<!-- Html Elements for Search -->
+<div id="search-container" style="text-align: center;">
+    <input type="text" id="search-input" placeholder="search..." style="width: 90%; padding: 10px;text-align: center">
+    <ul id="results-container" style="padding: 10px;list-style-type: none;margin: 10px;"></ul>
+</div>
+
+<!-- Script pointing to search-script.js -->
+<script src="/assets/simple-jekyll-search.min.js" type="text/javascript"></script>
+
+<!-- Configuration -->
+<script>
+    SimpleJekyllSearch({
+        searchInput: document.getElementById('search-input'),
+        resultsContainer: document.getElementById('results-container'),
+        json: '/search.json'
+    })
+</script>

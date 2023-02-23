@@ -21,6 +21,9 @@ layout: default
 <h2 class="post-list-heading">{{ page.list_title }}</h2>
 {%- endif -%}
 
+<!-- search panel -->
+{%- include search.html -%}
+
 <div class="grid-container">
     {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
     {%- for post in posts reversed -%}
