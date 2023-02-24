@@ -3,8 +3,8 @@
   "description": "BTC Machine",
   "firstInscriptionDate": "2023-02-09 15:49:49 UTC",
   "firstInscriptionNum": 38347,
-  "lastInscriptionNum": 81436,
-  "supply": 757,
+  "lastInscriptionNum": 98657,
+  "supply": 777,
   "web": "https://btcmachine.org",
   "twitter": "https://twitter.com/btcordinal",
   "discord": "https://discord.gg/btcmachine",
@@ -4550,6 +4550,18 @@
       "inscriptionId": "4a85023bb3bf0362a265e82e4bcb6fc6c65854c0c77a8af642e561cd736592dei0",
       "inscriptionNum": 81436,
       "timestamp": "2023-02-14 05:33:08 UTC"
+    },
+    {
+      "artifactId": 758,
+      "inscriptionId": "460e57616fb7985dc5772fad7af071ac087cce7a059ec96bb25e859f8536916fi0",
+      "inscriptionNum": 98565,
+      "timestamp": "2023-02-15 03:29:11 UTC"
+    },
+    {
+      "artifactId": 759,
+      "inscriptionId": "ef3af25661f1b54f051395894e54f616df016c37bfa1811e34c4a6955f55557fi0",
+      "inscriptionNum": 98657,
+      "timestamp": "2023-02-15 03:31:49 UTC"
     }
   ]
 }
