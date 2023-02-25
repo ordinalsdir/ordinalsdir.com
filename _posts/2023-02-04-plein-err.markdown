@@ -4,6 +4,7 @@ title:  "Plein Err"
 date:   2023-02-04 19:58:06 +0000
 firstInscriptionNum: 2100
 lastInscriptionNum: 2281
+supply: 42
 image: https://ordinals.com/content/c8b331a24873016fe9d2801f6a406ae1ec10e2f543469672958e62417a6311a9i0
 ---
 {% assign data = site.data.plein-err %}

@@ -36,8 +36,9 @@ layout: default
             </a>
         </h2>
         <p class="post-meta">
-            {{ post.date | date: date_format }}<br>
-            Inscriptions: {{post.firstInscriptionNum }} - {{post.lastInscriptionNum}}
+            Date: {{ post.date | date: date_format }}<br>
+            Inscriptions: {{post.firstInscriptionNum }} - {{post.lastInscriptionNum}}<br>
+            Supply: {{post.supply }}
         </p>
         {%- if site.show_excerpts -%}
         {{ post.excerpt }}

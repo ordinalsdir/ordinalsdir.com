@@ -4,6 +4,7 @@ title:  "On the Edge of Oblivion"
 date:   2023-02-07 04:25:13 +0000
 firstInscriptionNum: 9978
 lastInscriptionNum: 21623
+supply: 555
 image: https://ordinalsdir.com/assets/img/on-the-edge-of-oblivion.png
 categories:
 ---
