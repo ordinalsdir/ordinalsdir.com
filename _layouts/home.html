@@ -40,11 +40,17 @@ layout: default
             Inscriptions: {{post.firstInscriptionNum }} - {{post.lastInscriptionNum}}<br>
             Supply: {{post.supply }}
                 {% if post.lastInscriptionNum < 1000 %}
-                        <span class="label label-default" style="background-color: green; color: white; border-radius: 4px; padding: 2px;">Sub 1k</span>
+                    <span class="label label-default" style="background-color: green; color: white; border-radius: 4px; padding: 2px;">Sub 1k</span>
+                {% elsif post.lastInscriptionNum < 5000  %}
+                    <span class="label label-default" style="background-color: greenyellow; color: black; border-radius: 4px; padding: 2px;">Sub 5k</span>
                 {% elsif post.lastInscriptionNum < 10000  %}
-                        <span class="label label-default" style="background-color: orange; color: black; border-radius: 4px; padding: 2px;">Sub 10k</span>
+                    <span class="label label-default" style="background-color: yellow; color: black; border-radius: 4px; padding: 2px;">Sub 10k</span>
+                {% elsif post.lastInscriptionNum < 50000  %}
+                    <span class="label label-default" style="background-color: orange; color: white; border-radius: 4px; padding: 2px;">Sub 50k</span>
                 {% elsif post.lastInscriptionNum < 100000  %}
-                        <span class="label label-default" style="background-color: darkred; color: white; border-radius: 4px; padding: 2px;">Sub 100k</span>
+                    <span class="label label-default" style="background-color: red; color: white; border-radius: 4px; padding: 2px;">Sub 100k</span>
+                {% else %}
+                    <span class="label label-default" style="background-color: black; color: white; border-radius: 4px; padding: 2px;">> 100k</span>
                 {% endif %}
         </p>
         {%- if site.show_excerpts -%}
