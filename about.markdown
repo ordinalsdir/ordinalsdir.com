@@ -1,6 +1,6 @@
 ---
 layout: page
-title: SUBMIT COLLECTION (FREE)
+title: SUBMIT COLLECTION
 permalink: /submit-collection/
 ---
 
