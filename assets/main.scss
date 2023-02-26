@@ -29,6 +29,10 @@ main {
   color: #eee;
 }
 
+.site-header > .wrapper {
+  max-width: inherit;
+}
+
 .grid-container {
   display: grid;
   grid-template-columns: auto auto auto;
