@@ -3,6 +3,32 @@
 
 @import "{{ site.theme }}";
 
+.site-header {
+  background: #292c2f;
+  color: #a1adb8;
+}
+
+.site-nav .page-link {
+  color: #4169e1;
+  line-height: 1.5;
+}
+
+.site-title, .site-title:visited {
+  color: #a1adb8;
+}
+
+main {
+  background: #eee;
+}
+
+.site-footer {
+  background: #292c2f;
+}
+
+.footer-heading {
+  color: #eee;
+}
+
 .grid-container {
   display: grid;
   grid-template-columns: auto auto auto;
