@@ -6,6 +6,8 @@
 
     "title"    : "{{ post.title | escape }}",
     "desc"     : "Date: {{ post.date }}, From: {{ post.firstInscriptionNum | escape }}, To: {{post.lastInscriptionNum | escape}}",
+    "image"    : "{{ post.image | escape }}",
+    "supply"   : "{{ post.supply | escape }}",
     "url"      : "{{ site.baseurl }}{{ post.url }}",
     "category" : "{{ post.category }}",
     "tags"     : "{{ post.tags | join: ', ' }}",
